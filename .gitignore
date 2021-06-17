@@ -9,7 +9,7 @@
 build/*
 dbs/*
 eggs/*
-*.zip
+*.zip  
 pdfs/*
 /pdfs
 pdfs
